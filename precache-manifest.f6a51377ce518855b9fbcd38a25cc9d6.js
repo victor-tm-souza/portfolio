@@ -88,12 +88,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/card_peci.5e2f6338.png"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/portfolio/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/portfolio/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/portfolio/static/media/slick.ced611da.eot"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -104,24 +104,24 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "6d28e0cf89af72ea7d44f29d8154abd2",
-    "url": "/portfolio/static/media/intro-wave.6d28e0cf.svg"
-  },
-  {
     "revision": "0ba0cea21371d65d46623ab321001c92",
     "url": "/portfolio/static/media/layered-waves-haikei.0ba0cea2.svg"
+  },
+  {
+    "revision": "6d28e0cf89af72ea7d44f29d8154abd2",
+    "url": "/portfolio/static/media/intro-wave.6d28e0cf.svg"
   },
   {
     "revision": "2f5e08c0da0c0367750e1813192e0eb1",
     "url": "/portfolio/static/media/layered-waves-haikei-4.2f5e08c0.svg"
   },
   {
-    "revision": "d7af4e4f0000a90fa11f57b16856378a",
-    "url": "/portfolio/static/media/layered-waves-haikei-phone-2.d7af4e4f.svg"
-  },
-  {
     "revision": "aabca6a993450627a226a4a5268ed8f5",
     "url": "/portfolio/static/media/layered-waves-haikei-phone-1.aabca6a9.svg"
+  },
+  {
+    "revision": "d7af4e4f0000a90fa11f57b16856378a",
+    "url": "/portfolio/static/media/layered-waves-haikei-phone-2.d7af4e4f.svg"
   },
   {
     "revision": "e7a0f62e30ce81437808b895cebf18d3",
