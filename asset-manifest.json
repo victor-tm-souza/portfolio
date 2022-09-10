@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.e1e02741.chunk.css",
-  "main.js": "/static/js/main.e658c2ab.chunk.js",
-  "main.js.map": "/static/js/main.e658c2ab.chunk.js.map",
+  "main.css": "/static/css/main.eddb77de.chunk.css",
+  "main.js": "/static/js/main.8164f5a1.chunk.js",
+  "main.js.map": "/static/js/main.8164f5a1.chunk.js.map",
   "static/css/1.987319db.chunk.css": "/static/css/1.987319db.chunk.css",
   "static/js/1.1badc261.chunk.js": "/static/js/1.1badc261.chunk.js",
   "static/js/1.1badc261.chunk.js.map": "/static/js/1.1badc261.chunk.js.map",
@@ -22,13 +22,13 @@
   "static/media/linked.png": "/static/media/linked.88cdfa31.png",
   "static/media/email.png": "/static/media/email.17159678.png",
   "static/media/Data_Centric_Machine_Learning_ops_for_Autonomous_Driving_censored.pdf": "/static/media/Data_Centric_Machine_Learning_ops_for_Autonomous_Driving_censored.eb0997e8.pdf",
-  "static/media/cv-eng.pdf": "/static/media/cv-eng.811019a8.pdf",
+  "static/media/cv-eng.pdf": "/static/media/cv-eng.8251b81f.pdf",
   "static/media/card_peci.png": "/static/media/card_peci.5e2f6338.png",
   "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
   "static/media/Tablet.css": "/static/media/layered-waves-haikei-phone-2.d7af4e4f.svg",
+  "static/css/main.eddb77de.chunk.css.map": "/static/css/main.eddb77de.chunk.css.map",
   "static/css/1.987319db.chunk.css.map": "/static/css/1.987319db.chunk.css.map",
-  "static/css/main.e1e02741.chunk.css.map": "/static/css/main.e1e02741.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.7fd1113eec19c7afbfb8dc91328679fb.js": "/precache-manifest.7fd1113eec19c7afbfb8dc91328679fb.js",
+  "precache-manifest.50d30b84c3d70a02209ea687f380096a.js": "/precache-manifest.50d30b84c3d70a02209ea687f380096a.js",
   "service-worker.js": "/service-worker.js"
 }

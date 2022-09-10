@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e658c2abf268b61be21e",
-    "url": "/static/css/main.e1e02741.chunk.css"
+    "revision": "8164f5a1efc94f2b6d09",
+    "url": "/static/css/main.eddb77de.chunk.css"
   },
   {
-    "revision": "e658c2abf268b61be21e",
-    "url": "/static/js/main.e658c2ab.chunk.js"
+    "revision": "8164f5a1efc94f2b6d09",
+    "url": "/static/js/main.8164f5a1.chunk.js"
   },
   {
     "revision": "1badc261e10a91f18ad1",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/static/media/Data_Centric_Machine_Learning_ops_for_Autonomous_Driving_censored.eb0997e8.pdf"
   },
   {
-    "revision": "811019a8d788d98e86c3f059fbee8372",
-    "url": "/static/media/cv-eng.811019a8.pdf"
+    "revision": "8251b81f495c3cd5d1ffd3f6739d2715",
+    "url": "/static/media/cv-eng.8251b81f.pdf"
   },
   {
     "revision": "5e2f6338a7cc0cd19237fd25e3b123a4",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/static/media/slick.ced611da.eot"
   },
   {
-    "revision": "d41f55a78e6f49a5512878df1737e58a",
-    "url": "/static/media/slick.d41f55a7.ttf"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "d41f55a78e6f49a5512878df1737e58a",
+    "url": "/static/media/slick.d41f55a7.ttf"
   },
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/static/media/intro-wave.6d28e0cf.svg"
   },
   {
-    "revision": "2f5e08c0da0c0367750e1813192e0eb1",
-    "url": "/static/media/layered-waves-haikei-4.2f5e08c0.svg"
-  },
-  {
     "revision": "0ba0cea21371d65d46623ab321001c92",
     "url": "/static/media/layered-waves-haikei.0ba0cea2.svg"
+  },
+  {
+    "revision": "2f5e08c0da0c0367750e1813192e0eb1",
+    "url": "/static/media/layered-waves-haikei-4.2f5e08c0.svg"
   },
   {
     "revision": "aabca6a993450627a226a4a5268ed8f5",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/static/media/layered-waves-haikei-phone-2.d7af4e4f.svg"
   },
   {
-    "revision": "6d7ac92ba09065b6c338c972899fdc57",
+    "revision": "363658a9256982557be241f6a1b96d83",
     "url": "/index.html"
   }
 ];
