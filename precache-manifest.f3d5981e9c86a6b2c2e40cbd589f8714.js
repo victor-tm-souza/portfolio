@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "48e5a68d5dbeb0fe1e4c",
+    "revision": "2335c6d48521ebda6859",
     "url": "/static/css/main.c994575a.chunk.css"
   },
   {
-    "revision": "48e5a68d5dbeb0fe1e4c",
-    "url": "/static/js/main.48e5a68d.chunk.js"
+    "revision": "2335c6d48521ebda6859",
+    "url": "/static/js/main.2335c6d4.chunk.js"
   },
   {
     "revision": "1badc261e10a91f18ad1",
@@ -80,20 +80,20 @@ self.__precacheManifest = [
     "url": "/static/media/Data_Centric_Machine_Learning_ops_for_Autonomous_Driving_censored.eb0997e8.pdf"
   },
   {
-    "revision": "8251b81f495c3cd5d1ffd3f6739d2715",
-    "url": "/static/media/cv-eng.8251b81f.pdf"
+    "revision": "b7e9723d46256964dd9dbfe6a5874d0b",
+    "url": "/static/media/cv-eng.b7e9723d.pdf"
   },
   {
     "revision": "5e2f6338a7cc0cd19237fd25e3b123a4",
     "url": "/static/media/card_peci.5e2f6338.png"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -104,12 +104,12 @@ self.__precacheManifest = [
     "url": "/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "6d28e0cf89af72ea7d44f29d8154abd2",
-    "url": "/static/media/intro-wave.6d28e0cf.svg"
-  },
-  {
     "revision": "0ba0cea21371d65d46623ab321001c92",
     "url": "/static/media/layered-waves-haikei.0ba0cea2.svg"
+  },
+  {
+    "revision": "6d28e0cf89af72ea7d44f29d8154abd2",
+    "url": "/static/media/intro-wave.6d28e0cf.svg"
   },
   {
     "revision": "2f5e08c0da0c0367750e1813192e0eb1",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/static/media/layered-waves-haikei-phone-2.d7af4e4f.svg"
   },
   {
-    "revision": "4fc6d35cc68a6f854454819174f167ff",
+    "revision": "76380cf71deb111f1cd1430e158933db",
     "url": "/index.html"
   }
 ];
